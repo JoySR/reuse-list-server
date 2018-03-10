@@ -1,5 +1,7 @@
 # Server for Reuse Lists
 
+[API Documentation](./API.md)
+
 ### Database config
 
 1. Create a Database, for example, `sample_db`;
