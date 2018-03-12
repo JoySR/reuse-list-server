@@ -63,7 +63,9 @@
 **request:**
 
 ```
-{}
+{
+  username: "username"
+}
 ```
 
 **response:**
