@@ -253,6 +253,4 @@ class User{
     }
     return false;
   }
-
-  // TODO: logout
 }
